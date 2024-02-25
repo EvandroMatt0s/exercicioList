@@ -49,6 +49,11 @@ public class Application {
         for (Employee employee : list) {
             System.out.println(employee);
         }
+        System.out.println();
+        System.out.println("List of Employees");
+        for (Employee employee : list) {
+            System.out.println(employee);
+        }
 
 
         sc.close();
